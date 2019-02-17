@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "3597982e3d5ea6ea413b638ec24d738286c459a1"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "ElasticSearchPlayground.Repository/1.0.0": {
+        "dependencies": {
+          "ElasticSearchPlayground.Models": "1.0.0",
+          "NEST": "6.5.0",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "ElasticSearchPlayground.Repository.dll": {}
+        }
+      },
+      "Elasticsearch.Net/6.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/Elasticsearch.Net.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.5.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NEST/6.5.0": {
+        "dependencies": {
+          "Elasticsearch.Net": "6.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Nest.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.5.0.0"
+          }
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "ElasticSearchPlayground.Models/1.0.0": {
+        "runtime": {
+          "ElasticSearchPlayground.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElasticSearchPlayground.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Elasticsearch.Net/6.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wkYfGW7/KD4vuimeFUYB/asxxRpyr+brGri4i9af9gHCb4zsYXWxzr6GCfY6/kBgolPLliC/aSC/oR6saO3ePA==",
+      "path": "elasticsearch.net/6.5.0",
+      "hashPath": "elasticsearch.net.6.5.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NEST/6.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ra9VQqr5nKdP+AHG53vKvVBPPTTjhjK6X9jXaZ6BJcPp3SYINmszZ0T9q8vc/MEns5mNepJNTMD9Zn0O/Gq9TQ==",
+      "path": "nest/6.5.0",
+      "hashPath": "nest.6.5.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "ElasticSearchPlayground.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

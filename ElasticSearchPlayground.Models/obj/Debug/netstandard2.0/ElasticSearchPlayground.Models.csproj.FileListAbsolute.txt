@@ -1,0 +1,9 @@
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Models\bin\Debug\netstandard2.0\ElasticSearchPlayground.Models.deps.json
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Models\bin\Debug\netstandard2.0\ElasticSearchPlayground.Models.dll
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Models\bin\Debug\netstandard2.0\ElasticSearchPlayground.Models.pdb
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Models\obj\Debug\netstandard2.0\ElasticSearchPlayground.Models.csprojAssemblyReference.cache
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Models\obj\Debug\netstandard2.0\ElasticSearchPlayground.Models.csproj.CoreCompileInputs.cache
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Models\obj\Debug\netstandard2.0\ElasticSearchPlayground.Models.AssemblyInfoInputs.cache
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Models\obj\Debug\netstandard2.0\ElasticSearchPlayground.Models.AssemblyInfo.cs
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Models\obj\Debug\netstandard2.0\ElasticSearchPlayground.Models.dll
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Models\obj\Debug\netstandard2.0\ElasticSearchPlayground.Models.pdb

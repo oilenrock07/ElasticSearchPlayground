@@ -1,0 +1,12 @@
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Repository\bin\Debug\netstandard2.0\ElasticSearchPlayground.Repository.deps.json
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Repository\bin\Debug\netstandard2.0\ElasticSearchPlayground.Repository.dll
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Repository\obj\Debug\netstandard2.0\ElasticSearchPlayground.Repository.csprojAssemblyReference.cache
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Repository\obj\Debug\netstandard2.0\ElasticSearchPlayground.Repository.csproj.CoreCompileInputs.cache
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Repository\obj\Debug\netstandard2.0\ElasticSearchPlayground.Repository.AssemblyInfoInputs.cache
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Repository\obj\Debug\netstandard2.0\ElasticSearchPlayground.Repository.AssemblyInfo.cs
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Repository\bin\Debug\netstandard2.0\ElasticSearchPlayground.Repository.pdb
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Repository\bin\Debug\netstandard2.0\ElasticSearchPlayground.Models.dll
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Repository\bin\Debug\netstandard2.0\ElasticSearchPlayground.Models.pdb
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Repository\obj\Debug\netstandard2.0\ElasticSearchPlayground.Repository.csproj.CopyComplete
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Repository\obj\Debug\netstandard2.0\ElasticSearchPlayground.Repository.dll
+C:\Cawi\DEV\ElasticSearch\ElasticSearchPlayground\ElasticSearchPlayground.Repository\obj\Debug\netstandard2.0\ElasticSearchPlayground.Repository.pdb
